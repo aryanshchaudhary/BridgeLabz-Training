@@ -1,0 +1,22 @@
+package level_1;
+import java.util.*;
+public class MultipleValue {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		double[] arr = new double[10];
+		double total = 0.0;
+		int i = 0;
+		while(true) {
+			System.out.println("Enter a number: ");
+			double n = sc.nextDouble();
+			if(n<=0||i==10)
+				break;
+			arr[i++]=n;
+		}
+		for(int j = 0; j<i; j++) {
+			total+=arr[j];
+			System.out.println(arr[j]);
+		}
+		System.out.println("Total Sum = " + total);
+	}
+}
