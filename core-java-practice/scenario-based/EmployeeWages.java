@@ -7,7 +7,8 @@ public class EmployeeWages {
 	static final int Max_Working_Hours = 100;
 
 	public static void main(String[] args) {
-		System.out.print("Welcome to Employee Wage Computation Program\n");
+		System.out.print("Welcome to Employee Wage Computation Program");
+		System.out.println();
 		//Use Case1
 		System.out.println("Use Case 1.");
 		boolean isPresent = useCase1();
