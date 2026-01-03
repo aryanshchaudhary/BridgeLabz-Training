@@ -3,6 +3,47 @@
 
 ---
 
+## 📂 Repository Structure
+```
+BridgeLabz-Training/
+│
+├── core-java-practice/            
+│   │
+│   ├── gcr-codebase/
+│   │   ├── programming-elements/
+│   │   └── control-flow/
+│   │   └── arrays/
+|   |   └── string/
+|   |   └── methods/
+|   |
+│   ├── leet-code-codebase/
+│   │
+│   └── scenario-based/
+│
+├── oops-practice/              
+│   │
+│   ├── gcr-codebase/
+│   │   ├── classes-and-objects/
+│   │   ├── constructor-instance-variables-access-modifiers/
+│   │   └── this-static-instance-final-operator/
+|   |   └── object-modeling/
+|   |   └── inheritance/
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+```
+
+---
+
+## 🛠 Tools & Technologies Used
+- **Language:** Java  
+- **IDE:** Eclipse  
+- **JDK:** Java 8+  
+- **Version Control:** Git & GitHub  
+
+---
+
 ##  Week 01 – Core Programming
 
 ### 1️⃣ Java Programming Elements
@@ -134,39 +175,39 @@
 
 ---
 
-## 🛠 Tools & Technologies Used
-- **Language:** Java  
-- **IDE:** Eclipse  
-- **JDK:** Java 8+  
-- **Version Control:** Git & GitHub  
-
+### 1️⃣2️⃣ Object Modeling & Class Diagram (02-Jan-2026)
+**Topics Covered**:
+- Object Modeling
+- Classes and Objects
+- UML Class Diagrams
+- Relationships:
+  - Association
+  - Aggregation
+#### Learning Outcome:
+- Design systems before implementation
+- Represent real-world entities using class diagrams
+- Apply object-oriented design principles
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/9370175239e561911232aa1714db453645916a02
+  
 ---
 
-## 📂 Repository Structure
-```
-BridgeLabz-Training/
-│
-├── core-java-practice/            
-│   │
-│   ├── gcr-codebase/
-│   │   ├── programming-elements/
-│   │   └── control-flow/
-│   │   └── arrays/
-|   |   └── string/
-|   |   └── methods/
-|   |
-│   ├── leet-code-codebase/
-│   │
-│   └── scenario-based/
-│
-├── oops-practice/              
-│   │
-│   ├── gcr-codebase/
-│   │   ├── classes-and-objects/
-│   │   ├── constructor-instance-variables-access-modifiers/
-│   │   └── this-static-instance-final-operator/
-│   │
-│   ├── scenario-based/
-│   │
-│   └── leet-code-codebase/
+### 1️⃣3️⃣ – Inheritance(03-Jan-2026)
+**Topics Covered**:
+- Inheritance in Java
+- `extends` keyword
+- Superclass and Subclass
+- Method overriding
+- Types of inheritance:
+  - Single
+  - Multilevel
+  - Hierarchical
+
+#### Learning Outcome:
+- Achieve code reusability
+- Build hierarchical class structures
+- Improve maintainability and scalability
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/ecee27727ad619155eef4abec20d730ad85acb61
+
+
+
 
