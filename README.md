@@ -28,6 +28,7 @@ BridgeLabz-Training/
 │   │   └── this-static-instance-final-operator/
 |   |   └── object-modeling/
 |   |   └── inheritance/
+|   |   └── encapsulation-polymorphism-interface-abstract-classes/
 │   │
 │   ├── scenario-based/
 │   │
@@ -46,7 +47,7 @@ BridgeLabz-Training/
 
 ##  Week 01 – Core Programming
 
-### 1️⃣ Java Programming Elements
+### 1️ Java Programming Elements
 **Topics Covered:**
 - Java syntax and structure  
 - Variables and data types  
@@ -59,7 +60,7 @@ BridgeLabz-Training/
 
 ---
 
-### 2️⃣ Java Control Flows
+### 2️ Java Control Flows
 **Topics Covered:**
 - Conditional statements (`if`, `else`, `switch`)  
 - Looping statements (`for`, `while`, `do-while`)  
@@ -71,7 +72,7 @@ BridgeLabz-Training/
 
 ---
 
-### 3️⃣ Java Arrays
+### 3️ Java Arrays
 **Topics Covered:**
 - Single-dimensional arrays  
 - Multi-dimensional arrays  
@@ -83,7 +84,7 @@ BridgeLabz-Training/
 
 ---
 
-### 4️⃣ Java Methods
+### 4️ Java Methods
 **Topics Covered:**
 - Method declaration and calling  
 - Parameters and return values  
@@ -94,7 +95,7 @@ BridgeLabz-Training/
 
 ---
 
-### 5️⃣ Java Strings
+### 5️ Java Strings
 **Topics Covered:**
 - String creation and immutability  
 - Common String methods  
@@ -108,7 +109,7 @@ BridgeLabz-Training/
 
 ##  Week 02 – Object-Oriented Programming
 
-### 6️⃣ Object-Oriented Programming Fundamentals
+### 6️ Object-Oriented Programming Fundamentals
 **Topics Covered:**
 - Classes and objects  
 - Encapsulation  
@@ -119,7 +120,7 @@ BridgeLabz-Training/
 
 ---
 
-### 7️⃣ Java Constructors
+### 7️ Java Constructors
 **Topics Covered:**
 - Default constructors  
 - Parameterized constructors  
@@ -130,7 +131,7 @@ BridgeLabz-Training/
 
 ---
 
-### 8️⃣ Instance vs Class Variables
+### 8️ Instance vs Class Variables
 **Topics Covered:**
 - Instance variables  
 - Static (class) variables  
@@ -141,7 +142,7 @@ BridgeLabz-Training/
 
 ---
 
-### 9️⃣ Access Modifiers
+### 9️ Access Modifiers
 **Topics Covered:**
 - `public`  
 - `protected`  
@@ -154,7 +155,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🔟 Keywords: `this`, `static`, `final`
+### 10 Keywords: `this`, `static`, `final`
 **Topics Covered:**
 - `this` keyword  
 - Static variables and methods  
@@ -165,7 +166,7 @@ BridgeLabz-Training/
 
 ---
 
-### 1️⃣1️⃣ `instanceof` Operator
+### 1️1 `instanceof` Operator
 **Topics Covered:**
 - Runtime object type checking  
 - Safe type casting  
@@ -175,7 +176,7 @@ BridgeLabz-Training/
 
 ---
 
-### 1️⃣2️⃣ Object Modeling & Class Diagram (02-Jan-2026)
+### 1️2 Object Modeling & Class Diagram (02-Jan-2026)
 **Topics Covered**:
 - Object Modeling
 - Classes and Objects
@@ -191,7 +192,7 @@ BridgeLabz-Training/
   
 ---
 
-### 1️⃣3️⃣ – Inheritance(03-Jan-2026)
+### 1️3 Inheritance (03-Jan-2026)
 **Topics Covered**:
 - Inheritance in Java
 - `extends` keyword
@@ -201,13 +202,35 @@ BridgeLabz-Training/
   - Single
   - Multilevel
   - Hierarchical
-
 #### Learning Outcome:
 - Achieve code reusability
 - Build hierarchical class structures
 - Improve maintainability and scalability
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/ecee27727ad619155eef4abec20d730ad85acb61
 
+
+  ---
+
+### 1️4 Encapsulation-Polymorphism-Interface-AbstractClasses (05-Jan-2026)
+**Topics Covered**:
+- Encapsulation in Java
+- Polymorphism in Java
+- Interface in Java
+- `implements` keyword
+- Abstract Class in Java
+- Abstract Methods
+- Concrete Methods
+#### Learning Outcome:
+- Apply Object-Oriented Programming (OOP) principles effectively.
+- Design clean, modular, and maintainable Java programs.
+- Understand real-world problem modeling using OOP concepts.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/2ec273c2e65376a8cf226383d3479e713910fb47
+
+---
+
+### 15 - Scenario-Based and LeetCode Problems (06-Jan-2026)
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/3fcd8f9e310ea0110aa0a67ea0d8394060067a74
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/abd8ac5d0e50bf559c40d9ef29e595fde4e6d7f2
 
 
 
