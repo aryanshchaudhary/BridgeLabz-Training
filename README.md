@@ -228,9 +228,14 @@ BridgeLabz-Training/
 
 ---
 
-### 15 - Scenario-Based and LeetCode Problems (06-Jan-2026)
+### 15 Scenario-Based and LeetCode Problems (06-Jan-2026)
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/3fcd8f9e310ea0110aa0a67ea0d8394060067a74
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/abd8ac5d0e50bf559c40d9ef29e595fde4e6d7f2
+
+---
+
+### 16 Story-Based Scenario Problems (07-Jan-2026)
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/ef1227753075ef77d8cf7c1e68c3405ef9311225
 
 
 
