@@ -24,7 +24,7 @@ BridgeLabz-Training/
 │   │
 │   ├── gcr-codebase/
 │   │   ├── classes-and-objects/
-│   │   ├── constructor-instance-variables-access-modifiers/
+│   │   └── constructor-instance-variables-access-modifiers/
 │   │   └── this-static-instance-final-operator/
 |   |   └── object-modeling/
 |   |   └── inheritance/
@@ -33,6 +33,16 @@ BridgeLabz-Training/
 │   ├── scenario-based/
 │   │
 │   └── leet-code-codebase/
+|
+├── dsa-practice/
+|   |
+|   ├── gcr-codebase/
+|   |   ├── linked-list/
+|   |
+|   ├── scenario-based/
+|   |
+|   └── leet-code-codebase/
+|   |
 ```
 
 ---
@@ -47,7 +57,7 @@ BridgeLabz-Training/
 
 ##  Week 01 – Core Programming
 
-### 1️ Java Programming Elements
+### 1️. Java Programming Elements
 **Topics Covered:**
 - Java syntax and structure  
 - Variables and data types  
@@ -60,7 +70,7 @@ BridgeLabz-Training/
 
 ---
 
-### 2️ Java Control Flows
+### 2️. Java Control Flows
 **Topics Covered:**
 - Conditional statements (`if`, `else`, `switch`)  
 - Looping statements (`for`, `while`, `do-while`)  
@@ -72,7 +82,7 @@ BridgeLabz-Training/
 
 ---
 
-### 3️ Java Arrays
+### 3️. Java Arrays
 **Topics Covered:**
 - Single-dimensional arrays  
 - Multi-dimensional arrays  
@@ -84,7 +94,7 @@ BridgeLabz-Training/
 
 ---
 
-### 4️ Java Methods
+### 4️. Java Methods
 **Topics Covered:**
 - Method declaration and calling  
 - Parameters and return values  
@@ -95,7 +105,7 @@ BridgeLabz-Training/
 
 ---
 
-### 5️ Java Strings
+### 5️. Java Strings
 **Topics Covered:**
 - String creation and immutability  
 - Common String methods  
@@ -109,7 +119,7 @@ BridgeLabz-Training/
 
 ##  Week 02 – Object-Oriented Programming
 
-### 6️ Object-Oriented Programming Fundamentals
+### 6️. Object-Oriented Programming Fundamentals
 **Topics Covered:**
 - Classes and objects  
 - Encapsulation  
@@ -120,7 +130,7 @@ BridgeLabz-Training/
 
 ---
 
-### 7️ Java Constructors
+### 7️. Java Constructors
 **Topics Covered:**
 - Default constructors  
 - Parameterized constructors  
@@ -131,7 +141,7 @@ BridgeLabz-Training/
 
 ---
 
-### 8️ Instance vs Class Variables
+### 8️. Instance vs Class Variables
 **Topics Covered:**
 - Instance variables  
 - Static (class) variables  
@@ -142,7 +152,7 @@ BridgeLabz-Training/
 
 ---
 
-### 9️ Access Modifiers
+### 9️. Access Modifiers
 **Topics Covered:**
 - `public`  
 - `protected`  
@@ -155,7 +165,7 @@ BridgeLabz-Training/
 
 ---
 
-### 10 Keywords: `this`, `static`, `final`
+### 10. Keywords: `this`, `static`, `final`
 **Topics Covered:**
 - `this` keyword  
 - Static variables and methods  
@@ -166,7 +176,7 @@ BridgeLabz-Training/
 
 ---
 
-### 1️1 `instanceof` Operator
+### 11. `instanceof` Operator
 **Topics Covered:**
 - Runtime object type checking  
 - Safe type casting  
@@ -176,7 +186,7 @@ BridgeLabz-Training/
 
 ---
 
-### 1️2 Object Modeling & Class Diagram (02-Jan-2026)
+### 1️2. Object Modeling & Class Diagram (02-Jan-2026)
 **Topics Covered**:
 - Object Modeling
 - Classes and Objects
@@ -192,7 +202,7 @@ BridgeLabz-Training/
   
 ---
 
-### 1️3 Inheritance (03-Jan-2026)
+### 1️3. Inheritance (03-Jan-2026)
 **Topics Covered**:
 - Inheritance in Java
 - `extends` keyword
@@ -211,7 +221,7 @@ BridgeLabz-Training/
 
   ---
 
-### 1️4 Encapsulation-Polymorphism-Interface-AbstractClasses (05-Jan-2026)
+### 1️4. Encapsulation-Polymorphism-Interface-AbstractClasses (05-Jan-2026)
 **Topics Covered**:
 - Encapsulation in Java
 - Polymorphism in Java
@@ -228,14 +238,31 @@ BridgeLabz-Training/
 
 ---
 
-### 15 Scenario-Based and LeetCode Problems (06-Jan-2026)
+### 15. Scenario-Based and LeetCode Problems (06-Jan-2026)
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/3fcd8f9e310ea0110aa0a67ea0d8394060067a74
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/abd8ac5d0e50bf559c40d9ef29e595fde4e6d7f2
 
 ---
 
-### 16 Story-Based Scenario Problems (07-Jan-2026)
+### 16. Story-Based Scenario Problems (07-Jan-2026)
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/ef1227753075ef77d8cf7c1e68c3405ef9311225
 
+---
 
+##  Week 03 – DSA-Practice
+
+### 17. Linked-List (08-Jan-2026)
+**Topics Covered**
+- Linked Lists in Java
+- Types:-
+  - Singly Linked List
+  - Doubly Linked List
+  - Circular Linked List
+  #### Learning Outcome:
+- Understand and explain the concept of linked lists and differentiate between singly, doubly, and circular linked lists.
+- Implement and manipulate linked lists in Java by performing insertion, deletion, searching, and traversal operations.
+- Apply appropriate linked list types to solve real-world and algorithmic problems efficiently.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/1a7b422559b9eb26502e50fd8e1df3cdb66d54d8
+
+---
 
