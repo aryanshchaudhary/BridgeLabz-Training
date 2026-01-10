@@ -1,0 +1,28 @@
+package l_2;
+import java.util.*;
+public class PalindromeNumber9 {
+	public boolean isPalindrome(int x) {
+		if(x<0) return false;
+		int original = x;
+		int rev = 0;
+		while(x!=0) {
+			int digit = x%10;
+			rev = rev*10+digit;
+			x=x/10;
+		}
+		if(original==rev){
+            return true;
+        }else{
+            return false;
+        }
+	}
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter the value of x : ");
+		int x = sc.nextInt();
+		PalindromeNumber9 obj = new PalindromeNumber9();
+		boolean result =  obj.isPalindrome(x);
+		System.out.println("Is Palindrome: " + result);
+		sc.close();
+	}
+}
