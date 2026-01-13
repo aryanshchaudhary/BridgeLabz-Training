@@ -249,9 +249,14 @@ BridgeLabz-Training/
 
 ---
 
+### 17. OOPs Scenario Based (12-Jan-2026)
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/7b6ab993ef475d9fafb72e1ca7c4cb1d4ef4ac85
+
+---
+
 ##  Week 03 – DSA-Practice
 
-### 17. Linked-List (08-Jan-2026)
+### 18. Linked-List (08-Jan-2026)
 **Topics Covered**
 - Linked Lists in Java
 - Types:-
