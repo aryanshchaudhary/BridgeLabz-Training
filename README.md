@@ -38,6 +38,7 @@ BridgeLabz-Training/
 |   |
 |   ├── gcr-codebase/
 |   |   ├── linked-list/
+|   |   └── stack-queue-hashmap/
 |   |
 |   ├── scenario-based/
 |   |
@@ -270,4 +271,18 @@ BridgeLabz-Training/
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/1a7b422559b9eb26502e50fd8e1df3cdb66d54d8
 
 ---
+
+### 19. Stack-Queue-HashMap (13-Jan-2026)
+**Topics Covered**
+- Stack in Java
+- Queue in Java
+- HashMap in Java
+#### Learning Outcome:
+- Identify when to use Stack (LIFO), Queue (FIFO), or HashMap (Key–Value)
+- Perform common operations like insert, delete, access, and search
+- Improve time and space efficiency in problem-solving
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/cd37dad090e62122db7792eaca80ffebd7189b20
+
+---
+
 
