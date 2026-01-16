@@ -39,6 +39,7 @@ BridgeLabz-Training/
 |   ├── gcr-codebase/
 |   |   ├── linked-list/
 |   |   └── stack-queue-hashmap/
+|   |   └── sorting-algorithm/
 |   |
 |   ├── scenario-based/
 |   |
@@ -282,6 +283,23 @@ BridgeLabz-Training/
 - Perform common operations like insert, delete, access, and search
 - Improve time and space efficiency in problem-solving
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/cd37dad090e62122db7792eaca80ffebd7189b20
+
+---
+
+### 20. Sorting-Algorithm (15-Jan-2026)
+**Topics Covered**
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Selection Sort
+- Heap Sort
+- Counting Sort
+#### Learning Outcome:
+- Understand and compare different sorting techniques based on time complexity, space usage, and stability.
+- Learn how algorithm choice impacts performance for small, large, sorted, or unsorted datasets.
+- Develop problem-solving skills by applying the right sorting algorithm to the right scenario efficiently.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/ed14f3b54b7782de3d954f533955aae98666bebb
 
 ---
 
