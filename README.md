@@ -40,6 +40,7 @@ BridgeLabz-Training/
 |   |   ├── linked-list/
 |   |   └── stack-queue-hashmap/
 |   |   └── sorting-algorithm/
+|   |   └── linear-binary-search/
 |   |
 |   ├── scenario-based/
 |   |
@@ -302,5 +303,20 @@ BridgeLabz-Training/
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/ed14f3b54b7782de3d954f533955aae98666bebb
 
 ---
+
+### 21. Linear-Binary Search (17-Jan-2026)
+**Topics Covered**
+- StringBuilder
+- StringBuffer
+- Linear Search 
+- Binary Search
+#### Learning Outcome:
+- Learn efficient string modification using StringBuilder and StringBuffer.
+- Understand basic searching using Linear and Binary Search.
+- Choose methods based on performance and use case.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/3210b0165491cb1e4e90f83bd4aa28c00e10ed82
+
+---
+
 
 
