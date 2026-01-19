@@ -29,6 +29,7 @@ BridgeLabz-Training/
 |   |   └── object-modeling/
 |   |   └── inheritance/
 |   |   └── encapsulation-polymorphism-interface-abstract-classes/
+|   |   └── address-book/
 │   │
 │   ├── scenario-based/
 │   │
@@ -257,9 +258,16 @@ BridgeLabz-Training/
 
 ---
 
+### 18. Address-Book Mini Project (19-Jan-2026)
+- Learning four layer of architecture
+- Getting the concept of OOPs more clear and stronger with DSA.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/41153078fa7b3c0853bdf5d7af6dbf158cf2bc47
+
+---
+
 ##  Week 03 – DSA-Practice
 
-### 18. Linked-List (08-Jan-2026)
+### 19. Linked-List (08-Jan-2026)
 **Topics Covered**
 - Linked Lists in Java
 - Types:-
@@ -274,7 +282,7 @@ BridgeLabz-Training/
 
 ---
 
-### 19. Stack-Queue-HashMap (13-Jan-2026)
+### 20. Stack-Queue-HashMap (13-Jan-2026)
 **Topics Covered**
 - Stack in Java
 - Queue in Java
@@ -287,7 +295,7 @@ BridgeLabz-Training/
 
 ---
 
-### 20. Sorting-Algorithm (15-Jan-2026)
+### 21. Sorting-Algorithm (15-Jan-2026)
 **Topics Covered**
 - Bubble Sort
 - Insertion Sort
@@ -304,7 +312,7 @@ BridgeLabz-Training/
 
 ---
 
-### 21. Linear-Binary Search (17-Jan-2026)
+### 22. Linear-Binary Search (17-Jan-2026)
 **Topics Covered**
 - StringBuilder
 - StringBuffer
@@ -317,6 +325,3 @@ BridgeLabz-Training/
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/3210b0165491cb1e4e90f83bd4aa28c00e10ed82
 
 ---
-
-
-
