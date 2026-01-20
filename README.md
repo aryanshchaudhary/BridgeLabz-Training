@@ -42,6 +42,7 @@ BridgeLabz-Training/
 |   |   └── stack-queue-hashmap/
 |   |   └── sorting-algorithm/
 |   |   └── linear-binary-search/
+|   |   └── algorithm-runtime-analysis/
 |   |
 |   ├── scenario-based/
 |   |
@@ -323,5 +324,30 @@ BridgeLabz-Training/
 - Understand basic searching using Linear and Binary Search.
 - Choose methods based on performance and use case.
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/3210b0165491cb1e4e90f83bd4aa28c00e10ed82
+
+---
+
+### 23. Algorithms Runtime Analysis (20-Jan-2026)
+**Topics Covered**
+- Comparing runtime analysis using StringBuffer and StringBuilder
+- Comparing different algorithm
+#### Learning Outcome:
+- Learning about algorithms that takes less time.
+- Understanding, which algorithm is better and when to use.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/771c7f3cf3fe2082b6d9a0b205b1713c0267cf86
+
+--- 
+
+### 24. DSA-Based Scenario Questions (20-Jan-2026)
+**Questions**
+- Banking System
+- Book Shelf Management
+- Browser Buddy
+- Cinema Management System
+- Employee Payroll System
+- Exam Proctor System
+- Parcel Tracker
+- Traffic Manager
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based
 
 ---
