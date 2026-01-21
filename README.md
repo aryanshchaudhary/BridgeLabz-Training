@@ -47,7 +47,15 @@ BridgeLabz-Training/
 |   ├── scenario-based/
 |   |
 |   └── leet-code-codebase/
+|
+├── collections-practice/
 |   |
+|   ├── gcr-codebase/
+|   |   ├── generics/
+|   |
+|   ├── scenario-based/
+|   |
+|   └── leet-code-codebase/
 ```
 
 ---
@@ -349,5 +357,22 @@ BridgeLabz-Training/
 - Parcel Tracker
 - Traffic Manager
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based
+
+---
+
+##  Week 04 – Collections-Practice
+
+### 25. Generics (21-Jan-2026)
+**Topics Covered**
+- Java Generics
+- Generic Class
+- Type Parameters
+- Generic Methods
+- Wildcards
+#### Learning Outcome: 
+- Understand how Java Generics, type parameters, and wildcards help catch type errors at compile time, reducing runtime ClassCastException.
+- Learn to create generic classes and generic methods that work with multiple data types, improving code reuse and maintainability.
+- Gain the ability to use bounded type parameters and wildcards to design flexible yet safe APIs for collections and frameworks.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/043c6a854a3d921ed22911582a8846cfbc0ebfb1
 
 ---
