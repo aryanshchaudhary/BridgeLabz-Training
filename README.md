@@ -52,6 +52,7 @@ BridgeLabz-Training/
 |   |
 |   ├── gcr-codebase/
 |   |   ├── generics/
+|   |   └── collections/
 |   |
 |   ├── scenario-based/
 |   |
@@ -374,5 +375,21 @@ BridgeLabz-Training/
 - Learn to create generic classes and generic methods that work with multiple data types, improving code reuse and maintainability.
 - Gain the ability to use bounded type parameters and wildcards to design flexible yet safe APIs for collections and frameworks.
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/043c6a854a3d921ed22911582a8846cfbc0ebfb1
+
+---
+
+### 26. Collections (23-Jan-2026)
+**Topics Covered**
+- Collections Framework
+- Hierarchy of Collections Framework
+- List Interface and Implementing Classes
+- Set Interface and Implementing Classes
+- Queue and Deque Interfaces
+- Map Interface and Its Implementations
+#### Learning Outcome:
+- Understand the Java Collections Framework hierarchy and select the right List, Set, Queue/Deque, or Map implementation based on data storage needs.
+- Efficiently store, access, manipulate, and retrieve data using ordered, unordered, unique, FIFO, and key-value collection types.
+- Apply appropriate collections to write optimized, scalable, and readable Java programs for real-world scenarios.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/4eff4197ff641e512f24d958e822f413b0eb1e69
 
 ---
