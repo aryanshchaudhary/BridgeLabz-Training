@@ -53,6 +53,7 @@ BridgeLabz-Training/
 |   ├── gcr-codebase/
 |   |   ├── generics/
 |   |   └── collections/
+|   |   └── streams/
 |   |
 |   ├── scenario-based/
 |   |
@@ -393,3 +394,20 @@ BridgeLabz-Training/
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/4eff4197ff641e512f24d958e822f413b0eb1e69
 
 ---
+
+### 27. Streams (26-Jan-2026)
+**Topics Covered**
+- Java I/O Streams
+- Types of Streams
+  - File Streams
+  - Object Streams
+  - ByteArray Streams
+  - Buffered Streams
+  - Reader and Writer
+#### Learning Outcome:
+- Understand how Java I/O Streams are used to read and write data.
+- Learn different types of streams (File, Object, ByteArray, Buffered, Reader/Writer) and their uses.
+- Write efficient Java programs for data input, output, and storage.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/da9623414819d125bda86c11b651ba1cd47fce12
+
+--- 
