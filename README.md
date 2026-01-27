@@ -54,6 +54,7 @@ BridgeLabz-Training/
 |   |   ├── generics/
 |   |   └── collections/
 |   |   └── streams/
+|   |   └── exceptions/
 |   |
 |   ├── scenario-based/
 |   |
@@ -409,5 +410,29 @@ BridgeLabz-Training/
 - Learn different types of streams (File, Object, ByteArray, Buffered, Reader/Writer) and their uses.
 - Write efficient Java programs for data input, output, and storage.
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/da9623414819d125bda86c11b651ba1cd47fce12
+
+--- 
+
+### 28. Exceptions (27-Jan-2026)
+**Topics Covered**
+- Exceptions 
+- Types of Exceptions
+  - Checked Exceptions,
+  - Unchecked Exceptions
+  - Custom Exceptions
+- Handling Exceptions 
+  - try-catch blocks
+  - try-catch-finally blocks
+  - try-with-resources statement
+  - throws clause
+  - throw statement
+- Creating Custom Exceptions
+- Extending Exception Class
+- Defining Constructors
+#### Learning Outcome:
+- **Understand exceptions**– Know what exceptions are and their types (checked, unchecked, and custom).
+- **Handle errors in Java**– Use try-catch, finally, throw, throws, and try-with-resources to avoid program crashes.
+- **Create your own exceptions**– Make custom exceptions by extending the Exception class.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/b9c66cadb1b823cae7345717442b76c2ec36af42
 
 --- 
