@@ -436,3 +436,13 @@ BridgeLabz-Training/
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/b9c66cadb1b823cae7345717442b76c2ec36af42
 
 --- 
+
+### 29. Scenario-Based (28-Jan-2026)
+- Edu-Results
+- File Backup Scheduler
+- Parcel Tracker
+- Restaurant Table Reservation
+- Smart Checkout
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based
+
+---
