@@ -446,3 +446,13 @@ BridgeLabz-Training/
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based
 
 ---
+
+### 30. Scenario-Based Problems Solved based on CG exam (29-Jan-2026 - 30-Jan-2026)
+- Lexical Twist
+- Flip Key Logical Problem
+- Future Logistics
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/c0bb21fb85c51471748b5d7d9e5121c8cd763a37
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/97cff7e4a0ed1cc122b15de8e1d858e1347e2346
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/7e8ac99ad1e9bf7b7e474731a7395c893260fd94
+
+--- 
