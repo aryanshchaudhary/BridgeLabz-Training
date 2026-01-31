@@ -55,6 +55,7 @@ BridgeLabz-Training/
 |   |   └── collections/
 |   |   └── streams/
 |   |   └── exceptions/
+|   |   └── regex-junit/
 |   |
 |   ├── scenario-based/
 |   |
@@ -454,5 +455,38 @@ BridgeLabz-Training/
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/c0bb21fb85c51471748b5d7d9e5121c8cd763a37
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/97cff7e4a0ed1cc122b15de8e1d858e1347e2346
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/7e8ac99ad1e9bf7b7e474731a7395c893260fd94
+
+--- 
+
+### 31. Regex and JUnit (31-Jan-2026)
+**Topics Covered**
+- Regex 
+- MetaCharacter
+- Quantifier
+- Common Patterns:
+  - Email Validation
+  - Password Strength
+  - Phone Number Format
+- Java Regex API 
+  - Pattern
+  - Matcher
+- Methods:
+  - find()
+  - matches()
+  - replaceAll()
+- Introduction to JUnit Framework
+- JUnit Annotations
+- Writing Test Cases
+- Structure of a Test Class
+- Assertions
+#### Learning Outcoms:
+- Learn what regular expressions are, how metacharacters and quantifiers work, and how to build common patterns like email, password, and phone validation.
+- Understand how Pattern and Matcher classes work together to apply regex in real Java programs.
+- Use methods like find(), matches(), and replaceAll() to search, validate, and modify text efficiently.
+- Learn what the JUnit framework is and why it is used for testing Java applications.
+- Understand JUnit annotations and the structure of a test class to create proper unit tests.
+- Use assertions to check expected results and ensure code works correctly.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/62488ae719f9da9bb08b748ca644d839ad55f7f2
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/67ba965921e363326557acfa50e7a9450a43ec6c
 
 --- 
