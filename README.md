@@ -56,8 +56,16 @@ BridgeLabz-Training/
 |   |   └── streams/
 |   |   └── exceptions/
 |   |   └── regex-junit/
+|   |   └── annotation-reflection/
 |   |
 |   ├── scenario-based/
+|   |
+|   └── leet-code-codebase/
+|
+├── io-programming-practice/
+|   |
+|   ├── gcr-codebase/
+|   |   └── csv-data-handling/
 |   |
 |   └── leet-code-codebase/
 ```
@@ -479,7 +487,7 @@ BridgeLabz-Training/
 - Writing Test Cases
 - Structure of a Test Class
 - Assertions
-#### Learning Outcoms:
+#### Learning Outcome:
 - Learn what regular expressions are, how metacharacters and quantifiers work, and how to build common patterns like email, password, and phone validation.
 - Understand how Pattern and Matcher classes work together to apply regex in real Java programs.
 - Use methods like find(), matches(), and replaceAll() to search, validate, and modify text efficiently.
@@ -490,3 +498,43 @@ BridgeLabz-Training/
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/67ba965921e363326557acfa50e7a9450a43ec6c
 
 --- 
+
+### 32. Annotation and Reflection (02-Feb-2026)
+**Topics Covered**
+- Introduction to Annotations
+- Common Built-in Annotations
+- Creating Custom Annotations
+- Advanced Custom Annotations
+- Real-World Use Cases
+- Annotation Processing Tools
+
+- Reflection
+  - Understanding of Reflection
+  - Using Reflection in Java
+  - Annotations and Reflection
+#### Learning Outcome:
+- Learners will understand what annotations and reflection are, why they are used in Java, and how they help add metadata and inspect classes at runtime.
+- Learners will be able to use common built-in annotations (like @Override, @Deprecated) and create custom annotations, including advanced ones with targets and retention policies.
+- Learners will learn how to use Java Reflection to read annotation data, access fields/methods dynamically, and link annotations with runtime behavior.
+- Learners will understand how frameworks use annotations and reflection for dependency injection, validation, testing, and configuration, and know about annotation processing tools used at compile time.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/c864258fdd91fc2ca868e6aa130c5e8d897eef26
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/1243a5e345dee78037e46215f9704c399c453d8c
+
+---
+
+##  Week 04 – IO-Programming-Practice
+
+### 33. CSV-Data Handling (02-Feb-2026)
+**Topics Covered**
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+#### Learning Outcome:
+- Understand CSV basics: Learners will understand what a CSV file is, its structure (rows, columns, commas), and where it is commonly used to store and share data.
+- Work with CSV files: Learners will be able to read, write, and parse CSV files, and convert CSV data into usable program objects (like lists, arrays, or records).
+- Ensure correct data: Learners will learn how to validate CSV data by checking missing values, correct formats (email, numbers, dates), and handling invalid or corrupted data safely.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/3bdddd1c8cc89904380a3d2ef3eb450f7e64a6a3
+
+---
