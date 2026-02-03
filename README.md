@@ -66,6 +66,7 @@ BridgeLabz-Training/
 |   |
 |   ├── gcr-codebase/
 |   |   └── csv-data-handling/
+|   |   └── json-data/
 |   |
 |   └── leet-code-codebase/
 ```
@@ -538,3 +539,18 @@ BridgeLabz-Training/
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/3bdddd1c8cc89904380a3d2ef3eb450f7e64a6a3
 
 ---
+
+### 34. JSon-Data (03-Feb-2026)
+**Topics Covered**
+- Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
+#### Learning Outcome:
+- Basic understanding of JSON – Meaning of JSON, structure using objects and arrays, and its use in data exchange.
+- Handling JSON data – Reading, writing, and parsing JSON data in applications.
+- Data validation – Checking JSON data against JSON Schema to ensure correct format and structure.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/1f0a938a2399c23931bd5dea1a25847fdacdce92
+
+--- 
