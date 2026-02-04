@@ -69,6 +69,16 @@ BridgeLabz-Training/
 |   |   └── json-data/
 |   |
 |   └── leet-code-codebase/
+|
+├── java-8-features-practice/
+|   |
+|   ├── gcr-codebase/
+|   |   ├── lambda-expressions/
+|   |   └── functional-interfaces/
+|   |
+|   ├── scenario-based/
+|   |
+|   └── leet-code-codebase/
 ```
 
 ---
@@ -523,7 +533,7 @@ BridgeLabz-Training/
 
 ---
 
-##  Week 04 – IO-Programming-Practice
+##  Week 05 – IO-Programming-Practice
 
 ### 33. CSV-Data Handling (02-Feb-2026)
 **Topics Covered**
@@ -552,5 +562,34 @@ BridgeLabz-Training/
 - Handling JSON data – Reading, writing, and parsing JSON data in applications.
 - Data validation – Checking JSON data against JSON Schema to ensure correct format and structure.
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/1f0a938a2399c23931bd5dea1a25847fdacdce92
+
+--- 
+
+##  Week 06 – Java-8-Features-Practice
+
+### 35. Lambda Expressions (04-Feb-2026)
+**Topics Covered**
+- Lambda Expressions
+- Method References
+#### Learning Outcome:
+- Write short and clear code instead of long anonymous classes
+- Use functions easily with Stream API and functional interfaces
+- Call existing methods in a cleaner and readable way
+- Reduce code by reusing methods instead of writing lambdas
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/d657542add2ab6e4e82e2909c50559502021b71e
+
+---
+
+### 36. Functional Interfaces (04-Feb-2026)
+**Topices Covered**
+- Defining and Implementing Interfaces
+- Functional Interfaces
+- Default and Static Methods in Interfaces
+- Marker Interfaces
+#### Learning Outcome:
+- Understand how to design interfaces properly and implement them using best practices
+- Use functional, default, static, and marker interfaces to add flexibility and behavior in Java programs
+- Write cleaner, reusable, and more maintainable code using modern interface features
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/92c957abf61db3d0c82b040003b99c4e10823b7e
 
 --- 
