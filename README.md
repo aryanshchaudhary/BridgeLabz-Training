@@ -75,6 +75,7 @@ BridgeLabz-Training/
 |   ├── gcr-codebase/
 |   |   ├── lambda-expressions/
 |   |   └── functional-interfaces/
+|   |   └── stream-api/
 |   |
 |   ├── scenario-based/
 |   |
@@ -591,5 +592,21 @@ BridgeLabz-Training/
 - Use functional, default, static, and marker interfaces to add flexibility and behavior in Java programs
 - Write cleaner, reusable, and more maintainable code using modern interface features
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/92c957abf61db3d0c82b040003b99c4e10823b7e
+
+--- 
+
+### 37. Stream-API (05-Feb-2026)
+**Topics Covered**
+- Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
+#### Learning Outcome:
+- Intermediate operations transform data lazily, while terminal operations execute the stream and produce a result.
+- Stateless vs stateful operations, ordered vs unordered streams, and parallel streams affect execution order and efficiency.
+- Difference between Iterable forEach() and Stream forEach() is understood, enabling clean, functional, and parallel data processing.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/0b8979577053c167cc0248aff68f518f547b62d1
 
 --- 
