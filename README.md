@@ -76,6 +76,7 @@ BridgeLabz-Training/
 |   |   ├── lambda-expressions/
 |   |   └── functional-interfaces/
 |   |   └── stream-api/
+|   |   └── collectors/
 |   |
 |   ├── scenario-based/
 |   |
@@ -608,5 +609,17 @@ BridgeLabz-Training/
 - Stateless vs stateful operations, ordered vs unordered streams, and parallel streams affect execution order and efficiency.
 - Difference between Iterable forEach() and Stream forEach() is understood, enabling clean, functional, and parallel data processing.
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/0b8979577053c167cc0248aff68f518f547b62d1
+
+--- 
+
+### 38. Collectors (07-Feb-2026)
+**Topics Covered**
+- Collectors
+  - Roles and Capabilities
+#### Learning Outcome:
+- Understand how to transform stream data into different forms like List, Set, or Map using collectors.
+- Apply aggregation operations such as grouping, partitioning, counting, averaging, and summarizing data efficiently.
+- Improve data processing skills by combining intermediate and terminal operations for clean and structured results.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/6e5ae09c4bed5c1d764a054f4c56f700484c0984
 
 --- 
