@@ -81,6 +81,23 @@ BridgeLabz-Training/
 |   ├── scenario-based/
 |   |
 |   └── leet-code-codebase/
+|
+├── solution-designing-practice/
+|   |
+|   ├── gcr-codebase/
+|   |   └── design-patterns/
+|   |
+|   └── leet-code-codebase/
+|
+├── multi-threading-practice/
+|   |
+|   ├── gcr-codebase/
+|   |   └── multi-threading/
+|   |
+|   ├── scenario-based/
+|   |
+|   └── leet-code-codebase/
+ 
 ```
 
 ---
@@ -621,5 +638,41 @@ BridgeLabz-Training/
 - Apply aggregation operations such as grouping, partitioning, counting, averaging, and summarizing data efficiently.
 - Improve data processing skills by combining intermediate and terminal operations for clean and structured results.
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/6e5ae09c4bed5c1d764a054f4c56f700484c0984
+
+--- 
+
+##  Week 07 – Solution-Designing-Practice
+
+### 39. Design Patterns (08-Feb-2026)
+**Topics Covered**
+- Introduction to GoF Design Pattern
+- Categories of Patterns (GoF classification)
+- Singleton Pattern
+- Factory Pattern
+- Observer Pattern
+- Builder Pattern
+- UML Designing
+#### Learning Outcome:
+- Gain knowledge of GoF (Gang of Four) design patterns and their classification into Creational, Structural, and Behavioral categories.
+- Learn how to implement commonly used patterns like Singleton, Factory, Observer, and Builder to solve real-world software design problems effectively.
+- Develop the ability to represent design patterns using UML diagrams, showing class relationships, interactions, and system structure clearly.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/e9e6d5c9fc47cd5499ffc4f8945e7b9989bcd7a9
+
+---
+
+##  Week 08 – Multi-Threading-Practice
+
+### 40. Multi-Threading (08-Feb-2026)
+- Introduction to Multi-Threading
+- Creating Threads Using Thread Class
+- Creating Threads Using Runnable Interface
+- Thread Class vs Runnable Interface
+- Thread Life Cycle and States
+- Thread Methods and Operations
+#### Learning Outcome:
+- Gain knowledge of multithreading concepts, thread creation methods, and the complete thread life cycle with different states.
+- Learn how to create and manage threads using the Thread class and Runnable interface, and understand the difference between them.
+- Develop the ability to use important thread methods and solve real-world practice problems using multithreading concepts.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/1e5186e3506d3ebccaeb4dca2277d637525c51b9
 
 --- 
