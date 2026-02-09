@@ -97,6 +97,15 @@ BridgeLabz-Training/
 |   ├── scenario-based/
 |   |
 |   └── leet-code-codebase/
+|
+├── jdbc-dbms-practice/
+|   |
+|   ├── gcr-codebase/
+|   |   └── jdbc-dbms-mySQL/
+|   |
+|   ├── scenario-based/
+|   |
+|   └── leet-code-codebase/
  
 ```
 
@@ -674,5 +683,21 @@ BridgeLabz-Training/
 - Learn how to create and manage threads using the Thread class and Runnable interface, and understand the difference between them.
 - Develop the ability to use important thread methods and solve real-world practice problems using multithreading concepts.
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/1e5186e3506d3ebccaeb4dca2277d637525c51b9
+
+--- 
+
+##  Week 09 – JDBC-DBMS-Practice
+
+### 41. JDBC-DBMS-MYSQL (09-Feb-2026)
+- JDBC Connectivity with MySQL Database
+- CRUD Operations using JDBC and MySQL
+- Transaction Management in JDBC with MySQL
+- Exception Handling and Resource Management in JDBC
+- PreparedStatement and SQL Injection Prevention
+#### Learning Outcome:
+- Understand how Java applications connect to MySQL databases using JDBC and perform CRUD operations effectively.
+- Apply transaction management, exception handling, and proper resource management to maintain data consistency and reliability.
+- Implement secure database interactions using PreparedStatement to prevent SQL injection and improve application performance.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/c437f330242f124d2b00be01380f144ad7859042
 
 --- 
