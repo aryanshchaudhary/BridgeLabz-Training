@@ -701,3 +701,23 @@ BridgeLabz-Training/
 - https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/c437f330242f124d2b00be01380f144ad7859042
 
 --- 
+
+### 42. Scenario-Based Problems
+1. Smart Parking Slot Allocation System (12-Feb-2026)
+2. Courier Staff Shift Scheduler (12-Feb-2026)
+3. Mini Project Assignment (13-Feb-2026)
+ - Online Course Enrollment Manager (Java 8)
+4. Disaster Relief Resource Allocation System (14-Feb-2026)
+5. Smart Water Tank Monitoring System (14-Feb-2026)
+6. Online Hackathon Submission Evaluator (15-Feb-2026)
+7. EV Charging Station Management System (15-Feb-2026)
+
+---
+
+### 43. Address-Book/Employee-Wage-Computation (15-Feb-2026)
+- Added more use cases to the address-book problem.
+- Added more use cases and methods to the employee-wage problem.
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/5eb2531b74207bc6b23b0c572ee9b20c046f2788
+- https://github.com/aryanshchaudhary/BridgeLabz-Training/commit/e8fe0dda0931484d4dac1f1238ccf5fd0a5f3854
+
+--- 
